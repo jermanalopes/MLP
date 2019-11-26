@@ -1,0 +1,1 @@
+MLPAlgortimo desenvolvido para analisar os sinais PPG (base desenvolvida no Mestrado), a classificação da rede é baseada na separação dos quatros grupos separados por cardiopatia e saudáveis
